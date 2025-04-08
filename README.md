@@ -2,10 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/1801f897-7c60-4d0c-87f0-52d71958a883)
 
--Pantalla 2
+# Pantalla 2
 ![image](https://github.com/user-attachments/assets/386801bb-b78e-44ea-b3c7-6402f12b336f)
 
--Pantalla 3
+# Pantalla 3
 ![image](https://github.com/user-attachments/assets/917a0f80-2746-4fad-99e7-96bf855b1fc2)
 
 
